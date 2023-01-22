@@ -1,0 +1,38 @@
+body{
+background: #0d5027;
+}
+
+
+.grid{
+    margin-top: 80px;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(4, 350px);
+    justify-content: center;
+}
+
+.pic{
+    width: 275px;
+    height: 400px;
+    border-radius: 15px;
+    border: 7px solid #211f21;
+}
+
+.head{
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    border: 3px solid #867e67;
+    height: 45px;
+    font-size: 35px;
+    background-color: bisque;
+    border-radius: 10px;
+    font-family: "Century Gothic" ;
+}
+ .picsart{
+     width: 275px;
+     height: 400px;
+     border-radius: 15px;
+
+ }
